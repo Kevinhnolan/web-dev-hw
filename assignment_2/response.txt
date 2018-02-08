@@ -1,0 +1,4 @@
+Data is sent through your home devices through a wifi connection using IP address which routes information to a ISP (Internet Service Provider) which sends packets of information.
+DNS manages the sending and recieving of web files and IP is the breakdown and transport of packets.
+cookies are small pieces of data sent from different websites and stored on your computer by the specific web browser.
+URL or Uniform Resourse Locator has three basic parts which include protocol, domain name, and path.
