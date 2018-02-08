@@ -10,4 +10,4 @@ Textbook-*HTML&CSS* by **John Duckett**
 
 Check out our website [Here](https://media-ed-online.github.io/intro-web-dev/)
 
-![](http://bit.ly/2DIVG46)
+![](http://bit.ly/2DIVG46) 
