@@ -1,4 +1,4 @@
-## Technical Report##
+## Technical Report
 
 -My primary web browser is Chrome but for Netflix I use Safari because my sisters account is saved to that browser!
 
