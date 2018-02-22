@@ -5,3 +5,4 @@ B.) A page can have a number of different head and body elements. Some elements 
 C.) Within the body there are 2 different types of markup used. Structural Markup and Semantic Markup. Structural markup embeds information about the structure of a document such as paragraphs, headings, breaks or lists. Semantic markup is used to reinforce the meaning of the documents with things like bold letters, underlines, strikethroughs, or italics.
 
 D.) For this assignment I did it pretty much on my own! I followed each direction step by step and put the pieces of the puzzle together through trial and error. I used the information from the website and used the html preview and managed to put it together!
+![Alt text](images/A3_screenshot.png?raw=true "screenshot")
