@@ -6,3 +6,4 @@ I'm definitely excited to learn more but also very nervous because I feel I'm ju
 My work cycle this time involved more reviewing and reading the past sections. I continue to use some different websites such as "W3schools" which gives me some info on codes and forms and such.
 
 ![](project-2/images/p2_shot.png)
+ 
