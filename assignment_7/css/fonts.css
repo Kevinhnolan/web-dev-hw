@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Marcellus';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Marcellus'), local('Marcellus-Regular'), url(https://fonts.gstatic.com/s/marcellus/v5/wEO_EBrOk8hQLDvIAF81WPoK_kgXiYvO.woff2) format('woff2');
+}
+
+@import url('https://fonts.googleapis.com/css?family=Qwigley');
+
+h2 {
+  font-family: 'Qwigley', cursive, sans-serif;
+text-align: center;

@@ -1,0 +1,45 @@
+
+
+body p {
+  text-align: center;
+  font-family: , 'Marcellus'; font-size: 14pt;
+  align-content: center;
+}
+body {background-color: red;
+}
+.container {
+    width: 900px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+}
+.header{
+  text-align: center;
+  font-family: 'Qwigley', serif;
+  font-size: 50pt;
+}
+.header_2{
+  text-align: center;
+  font-family: 'Qwigley', cursive;
+
+}
+.button {
+  color: #d19527;
+  font-weight: 300;
+  text-align: center;
+  font-size: 110%;
+}
+
+.button:hover {
+  color: gray;
+
+}
+
+.button:active {
+  color: white;
+  background-color: white;
+}
+
+.button:visited {
+  color: green;
+}
